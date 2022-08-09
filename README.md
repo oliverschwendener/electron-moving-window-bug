@@ -1,5 +1,7 @@
 # Electron bug: moving window on custom Windows UI scaling
 
+The issue is reproducable on Windows 11 Pro (build 22000.832)
+
 How to reproduce the issue:
 
 -   Set custom UI scaling on Windows

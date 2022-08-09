@@ -1,0 +1,17 @@
+{
+    "name": "electron-moving-window",
+    "description": "Repository to report bug for moving window on Windows with custom UI scaling",
+    "version": "0.0.0",
+    "main": "main.js",
+    "author": {
+        "email": "oliver.schwendener@hotmail.com",
+        "name": "Oliver Schwendener",
+        "url": "https://github.com/oliverschwendener"
+    },
+    "dependencies": {
+        "electron": "^20.0.1"
+    },
+    "scripts": {
+        "start": "./node_modules/.bin/electron ."
+    }
+}

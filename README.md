@@ -9,4 +9,4 @@ How to reproduce the issue:
 -   Clone this repository
 -   Install the dependencies: `npm install`
 -   Start the electron app: `npm start`
--   In an interval of 100ms the window should start moving to the top left corner of the screen
+-   In an interval of 100ms the window should start moving towards the top left corner of the screen

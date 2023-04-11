@@ -9,7 +9,7 @@
         "url": "https://github.com/oliverschwendener"
     },
     "dependencies": {
-        "electron": "^20.0.1"
+        "electron": "^24.0.0"
     },
     "scripts": {
         "start": "./node_modules/.bin/electron ."

@@ -12,6 +12,6 @@
         "electron": "^24.0.0"
     },
     "scripts": {
-        "start": "./node_modules/.bin/electron ."
+        "start": "npx electron ."
     }
 }

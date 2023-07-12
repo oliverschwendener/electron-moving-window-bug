@@ -9,7 +9,7 @@
         "url": "https://github.com/oliverschwendener"
     },
     "dependencies": {
-        "electron": "^24.0.0"
+        "electron": "^25.2.0"
     },
     "scripts": {
         "start": "npx electron ."
